@@ -175,6 +175,7 @@ img {
 /*FOOTER */
 #footer {
    grid-area: footer;
+   background-color: red;
 }
 
 /*CODIGO DE LAS TRANSFORMACIONES*/
